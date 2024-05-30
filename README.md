@@ -30,6 +30,7 @@ The objective of this project was to create an Active Directory (AD) home lab en
 8. Documentation of the entire process, including script explanations and usage instructions.
 
 _Ref 1: Provisioned Users_
+
 ![1](https://github.com/larryklingaman3/Active-Directory-Home-Lab/assets/157419336/c36cedd9-4ec9-43e0-851d-3a5ab4e7c66b)
 
 _Ref 2: Server Manager_
