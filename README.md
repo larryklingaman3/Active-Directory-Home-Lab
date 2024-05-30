@@ -29,4 +29,14 @@ The objective of this project was to create an Active Directory (AD) home lab en
 7. Testing the complete automation workflow to ensure functionality and reliability.
 8. Documentation of the entire process, including script explanations and usage instructions.
 
-*Ref 1: Network Diagram*
+_Ref 1: Provisioned Users_
+![1](https://github.com/larryklingaman3/Active-Directory-Home-Lab/assets/157419336/c36cedd9-4ec9-43e0-851d-3a5ab4e7c66b)
+
+_Ref 2: Server Manager_
+![2](https://github.com/larryklingaman3/Active-Directory-Home-Lab/assets/157419336/56e5ff0e-226a-47b5-bb2b-8abbadc226ac)
+
+_Ref 3: Domain Log-In Screen_
+![3](https://github.com/larryklingaman3/Active-Directory-Home-Lab/assets/157419336/2d7d52d6-e043-4654-b6bf-8e9966f01b2f)
+
+
+
